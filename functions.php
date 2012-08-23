@@ -63,8 +63,10 @@ function Boot_s_setup() {
 	 * This theme uses wp_nav_menu() in one location.
 	 */
 	register_nav_menus( array(
-		'primary' => __( 'Primary Menu', 'Boot_s' ),
-	) );
+			'primary' => __( 'Primary Menu', 'Boot_s' ),
+			'secondary' => __( 'Secondary Menu', 'Boot_s' ),
+			'landing' => __( 'Landing Menu', 'Boot_s' ),
+		) );
 
 	/**
 	 * Add support for the Aside Post Formats
@@ -99,7 +101,47 @@ function Boot_s_scripts() {
 
 	wp_enqueue_style( 'style', get_stylesheet_uri() );
 
-	wp_enqueue_script( 'small-menu', get_template_directory_uri() . '/js/small-menu.js', array( 'jquery' ), '20120206', true );
+	// wp_enqueue_script( 'small-menu', get_template_directory_uri() . '/js/small-menu.js', array( 'jquery' ), '20120206', true );
+	
+	// ADD ENQUEUE PER BOOTSTRAP
+	
+		wp_enqueue_style( 'bootstrap', get_template_directory_uri() . '/_css/bootstrap.css', '20120822' );
+	
+		wp_enqueue_style( 'bootstrap-responsive', get_template_directory_uri() . '/_css/responsive.css', '20120822' );
+		
+		// wp_enqueue_style( 'prettify', get_template_directory_uri() . '/_js/google-code-prettify/prettify.css', '20120822' );
+	
+		// wp_enqueue_script( 'small-menu', get_template_directory_uri() . '/js/small-menu.js', array( 'jquery' ), '20120206', true );
+		
+		// wp_enqueue_script( 'prettify', get_template_directory_uri() . '/_js/google-code-prettify/prettify.js', array( 'jquery' ), '20120822'  );
+		
+		wp_enqueue_script( 'bootstrap-transition', get_template_directory_uri() . '/_js/bootstrap-transition.js', array( 'jquery' ), '20120822', true  );
+		
+		wp_enqueue_script( 'bootstrap-alert', get_template_directory_uri() . '/_js/bootstrap-alert.js', array( 'jquery' ), '20120822', true  );
+		
+		wp_enqueue_script( 'bootstrap-modal', get_template_directory_uri() . '/_js/bootstrap-modal.js', array( 'jquery' ), '20120822', true  );
+		
+		wp_enqueue_script( 'bootstrap-dropdown', get_template_directory_uri() . '/_js/bootstrap-dropdown.js', array( 'jquery' ), '20120822', true  );
+		
+		wp_enqueue_script( 'bootstrap-scrollspy', get_template_directory_uri() . '/_js/bootstrap-scrollspy.js', array( 'jquery' ), '20120822', true  );
+		
+		wp_enqueue_script( 'bootstrap-tab', get_template_directory_uri() . '/_js/bootstrap-tab.js', array( 'jquery' ), '20120822', true  );
+		
+		wp_enqueue_script( 'bootstrap-tooltip', get_template_directory_uri() . '/_js/bootstrap-tooltip.js', array( 'jquery' ), '20120822', true  );
+		
+		wp_enqueue_script( 'bootstrap-popover', get_template_directory_uri() . '/_js/bootstrap-popover.js', array( 'jquery' ), '20120822', true  );
+		
+		wp_enqueue_script( 'bootstrap-button', get_template_directory_uri() . '/_js/bootstrap-button.js', array( 'jquery' ), '20120822', true  );
+		
+		wp_enqueue_script( 'bootstrap-collapse', get_template_directory_uri() . '/_js/bootstrap-collapse.js', array( 'jquery' ), '20120822', true  );
+		
+		wp_enqueue_script( 'bootstrap-carousel', get_template_directory_uri() . '/_js/bootstrap-carousel.js', array( 'jquery' ), '20120822', true  );
+		
+		wp_enqueue_script( 'bootstrap-typeahead', get_template_directory_uri() . '/_js/bootstrap-typeahead.js', array( 'jquery' ), '20120822', true  );
+		
+		wp_enqueue_script( 'bootstrap-affix', get_template_directory_uri() . '/_js/bootstrap-affix.js', array( 'jquery' ), '20120822', true  );
+		
+	// END ADD
 
 	if ( is_singular() && comments_open() && get_option( 'thread_comments' ) ) {
 		wp_enqueue_script( 'comment-reply' );
@@ -115,3 +157,13 @@ add_action( 'wp_enqueue_scripts', 'Boot_s_scripts' );
  * Implement the Custom Header feature
  */
 //require( get_template_directory() . '/inc/custom-header.php' );
+
+/**
+ * Implement additional Excerpt Functions
+ */
+
+function new_excerpt_more($more) {
+       global $post;
+	return '<br /><span class="read-more"> <a href="'. get_permalink($post->ID) . '">[read more]</a></span>';
+}
+add_filter('excerpt_more', 'new_excerpt_more');

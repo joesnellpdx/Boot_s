@@ -1,0 +1,727 @@
+2012-08-22 11:33:12     error _scss/bootstrap.scss (Line 51 of _scss/_reset.scss: Invalid CSS after "  .tab-focus": expected "{", was "();")
+2012-08-22 11:33:12 overwrite _css/bootstrap.css 
+2012-08-22 11:33:12     error _scss/responsive.scss (Line 12 of _scss/_variables.scss: Invalid CSS after "@black:": expected pseudoclass or pseudoelement, was "               ...")
+2012-08-22 11:33:12 overwrite _css/responsive.css 
+2012-08-22 11:34:08     error _scss/bootstrap.scss (Line 51 of _scss/_reset.scss: Invalid CSS after "  .tab-focus": expected "{", was "();")
+2012-08-22 11:34:08 overwrite _css/bootstrap.css 
+2012-08-22 11:34:09     error _scss/responsive.scss (Line 12 of _scss/_variables.scss: Invalid CSS after "@black:": expected pseudoclass or pseudoelement, was "               ...")
+2012-08-22 11:34:09 overwrite _css/responsive.css 
+2012-08-22 14:47:21     error _scss/bootstrap.scss (Line 51 of _scss/_reset.scss: Invalid CSS after "  .tab-focus": expected "{", was "();")
+2012-08-22 14:47:21 overwrite _css/bootstrap.css 
+2012-08-22 14:47:21     error _scss/responsive.scss (Line 12 of _scss/_variables.scss: Invalid CSS after "@black:": expected pseudoclass or pseudoelement, was "               ...")
+2012-08-22 14:47:21 overwrite _css/responsive.css 
+2012-08-22 15:02:28     error _scss/bootstrap.scss (Line 51 of _scss/_reset.scss: Invalid CSS after "  .tab-focus": expected "{", was "();")
+2012-08-22 15:02:28 overwrite _css/bootstrap.css 
+2012-08-22 15:02:28     error _scss/responsive.scss (Line 12 of _scss/_variables.scss: Invalid CSS after "@black:": expected pseudoclass or pseudoelement, was "               ...")
+2012-08-22 15:02:28 overwrite _css/responsive.css 
+2012-08-22 15:03:12     error _scss/bootstrap.scss (Line 51 of _scss/_reset.scss: Invalid CSS after "  .tab-focus": expected "{", was "();")
+2012-08-22 15:03:12 overwrite _css/bootstrap.css 
+2012-08-22 15:03:12     error _scss/responsive.scss (Line 112 of _scss/_variables.scss: Undefined variable: "$dropdownLinkBackgroundActive".)
+2012-08-22 15:03:12 overwrite _css/responsive.css 
+2012-08-22 15:05:07     error _scss/bootstrap.scss (Line 51 of _scss/_reset.scss: Invalid CSS after "  .tab-focus": expected "{", was "();")
+2012-08-22 15:05:07 overwrite _css/bootstrap.css 
+2012-08-22 15:05:07     error _scss/responsive.scss (Line 112 of _scss/_variables.scss: Undefined variable: "$dropdownLinkBackgroundActive".)
+2012-08-22 15:05:07 overwrite _css/responsive.css 
+2012-08-22 15:07:23     error _scss/bootstrap.scss (Line 51 of _scss/_reset.scss: Invalid CSS after "  .tab-focus": expected "{", was "();")
+2012-08-22 15:07:23 overwrite _css/bootstrap.css 
+2012-08-22 15:07:24     error _scss/responsive.scss (Line 112 of _scss/_variables.scss: Undefined variable: "$dropdownLinkBackgroundActive".)
+2012-08-22 15:07:24 overwrite _css/responsive.css 
+2012-08-22 15:08:21     error _scss/bootstrap.scss (Line 51 of _scss/_reset.scss: Invalid CSS after "  .tab-focus": expected "{", was "();")
+2012-08-22 15:08:21 overwrite _css/bootstrap.css 
+2012-08-22 15:08:21     error _scss/responsive.scss (Line 112 of _scss/_variables.scss: Undefined variable: "$dropdownLinkBackgroundActive".)
+2012-08-22 15:08:21 overwrite _css/responsive.css 
+2012-08-22 15:09:55     error _scss/bootstrap.scss (Line 51 of _scss/_reset.scss: Undefined mixin 'tab-focus'.)
+2012-08-22 15:09:55 overwrite _css/bootstrap.css 
+2012-08-22 15:09:55     error _scss/responsive.scss (Line 112 of _scss/_variables.scss: Undefined variable: "$dropdownLinkBackgroundActive".)
+2012-08-22 15:09:55 overwrite _css/responsive.css 
+2012-08-22 15:10:35     error _scss/bootstrap.scss (Line 51 of _scss/_reset.scss: Undefined mixin 'tab-focus'.)
+2012-08-22 15:10:35 overwrite _css/bootstrap.css 
+2012-08-22 15:10:35     error _scss/responsive.scss (Line 112 of _scss/_variables.scss: Undefined variable: "$dropdownLinkBackgroundActive".)
+2012-08-22 15:10:35 overwrite _css/responsive.css 
+2012-08-22 15:11:56     error _scss/bootstrap.scss (Line 51 of _scss/_reset.scss: Undefined mixin 'tab-focus'.)
+2012-08-22 15:11:56 overwrite _css/bootstrap.css 
+2012-08-22 15:11:57     error _scss/responsive.scss (Line 112 of _scss/_variables.scss: Undefined variable: "$dropdownLinkBackgroundActive".)
+2012-08-22 15:11:57 overwrite _css/responsive.css 
+2012-08-22 15:14:53     error _scss/bootstrap.scss (Line 112 of _scss/_variables.scss: Undefined variable: "$dropdownLinkBackgroundActive".)
+2012-08-22 15:14:53 overwrite _css/bootstrap.css 
+2012-08-22 15:14:53     error _scss/responsive.scss (Line 112 of _scss/_variables.scss: Undefined variable: "$dropdownLinkBackgroundActive".)
+2012-08-22 15:14:53 overwrite _css/responsive.css 
+2012-08-22 15:15:31     error _scss/bootstrap.scss (Line 112 of _scss/_variables.scss: Undefined variable: "$dropdownLinkBackgroundActive".)
+2012-08-22 15:15:31 overwrite _css/bootstrap.css 
+2012-08-22 15:15:31     error _scss/responsive.scss (Line 112 of _scss/_variables.scss: Undefined variable: "$dropdownLinkBackgroundActive".)
+2012-08-22 15:15:31 overwrite _css/responsive.css 
+2012-08-22 15:16:22     error _scss/bootstrap.scss (Line 162 of _scss/_variables.scss: Undefined variable: "$navbarBackgroundHighlight".)
+2012-08-22 15:16:22 overwrite _css/bootstrap.css 
+2012-08-22 15:16:22     error _scss/responsive.scss (Line 162 of _scss/_variables.scss: Undefined variable: "$navbarBackgroundHighlight".)
+2012-08-22 15:16:22 overwrite _css/responsive.css 
+2012-08-22 15:16:57     error _scss/bootstrap.scss (Line 214 of _scss/_variables.scss: "spin(#fcf8e3, -10)" is not a color for `darken')
+2012-08-22 15:16:57 overwrite _css/bootstrap.css 
+2012-08-22 15:16:57     error _scss/responsive.scss (Line 214 of _scss/_variables.scss: "spin(#fcf8e3, -10)" is not a color for `darken')
+2012-08-22 15:16:57 overwrite _css/responsive.css 
+2012-08-22 15:20:02     error _scss/bootstrap.scss (Line 72 of _scss/_mixins.scss: Invalid CSS after "@mixin size(": expected variable (e.g. $foo), was "@height, @width) {")
+2012-08-22 15:20:02 overwrite _css/bootstrap.css 
+2012-08-22 15:20:03     error _scss/responsive.scss (Line 72 of _scss/_mixins.scss: Invalid CSS after "@mixin size(": expected variable (e.g. $foo), was "@height, @width) {")
+2012-08-22 15:20:03 overwrite _css/responsive.css 
+2012-08-22 15:21:22     error _scss/bootstrap.scss (Line 73 of _scss/_mixins.scss: Invalid CSS after "  width: ": expected expression (e.g. 1px, bold), was "@width;")
+2012-08-22 15:21:22 overwrite _css/bootstrap.css 
+2012-08-22 15:21:22     error _scss/responsive.scss (Line 73 of _scss/_mixins.scss: Invalid CSS after "  width: ": expected expression (e.g. 1px, bold), was "@width;")
+2012-08-22 15:21:22 overwrite _css/responsive.css 
+2012-08-22 15:22:06     error _scss/bootstrap.scss (Line 77 of _scss/_mixins.scss: Invalid CSS after "  .size": expected "{", was "($size, $size);")
+2012-08-22 15:22:06 overwrite _css/bootstrap.css 
+2012-08-22 15:22:06     error _scss/responsive.scss (Line 77 of _scss/_mixins.scss: Invalid CSS after "  .size": expected "{", was "($size, $size);")
+2012-08-22 15:22:06 overwrite _css/responsive.css 
+2012-08-22 15:22:42     error _scss/bootstrap.scss (Line 129 of _scss/_mixins.scss: Invalid CSS after "...font-shorthand(": expected ")", was "@size: @baseFon...")
+2012-08-22 15:22:42 overwrite _css/bootstrap.css 
+2012-08-22 15:22:42     error _scss/responsive.scss (Line 129 of _scss/_mixins.scss: Invalid CSS after "...font-shorthand(": expected ")", was "@size: @baseFon...")
+2012-08-22 15:22:42 overwrite _css/responsive.css 
+2012-08-22 15:23:41     error _scss/bootstrap.scss (Line 157 of _scss/_mixins.scss: Invalid CSS after "  .box-sizing": expected "{", was "(border-box); /...")
+2012-08-22 15:23:41 overwrite _css/bootstrap.css 
+2012-08-22 15:23:41     error _scss/responsive.scss (Line 157 of _scss/_mixins.scss: Invalid CSS after "  .box-sizing": expected "{", was "(border-box); /...")
+2012-08-22 15:23:41 overwrite _css/responsive.css 
+2012-08-22 15:24:46     error _scss/bootstrap.scss (Line 178 of _scss/_mixins.scss: Invalid CSS after "    .box-shadow": expected "{", was "(inset 0 1px 1p...")
+2012-08-22 15:24:46 overwrite _css/bootstrap.css 
+2012-08-22 15:24:46     error _scss/responsive.scss (Line 178 of _scss/_mixins.scss: Invalid CSS after "    .box-shadow": expected "{", was "(inset 0 1px 1p...")
+2012-08-22 15:24:47 overwrite _css/responsive.css 
+2012-08-22 15:24:59     error _scss/bootstrap.scss (Line 182 of _scss/_mixins.scss: Invalid CSS after "... 0 6px lighten(": expected ")", was "@borderColor, 2...")
+2012-08-22 15:24:59 overwrite _css/bootstrap.css 
+2012-08-22 15:25:00     error _scss/responsive.scss (Line 182 of _scss/_mixins.scss: Invalid CSS after "... 0 6px lighten(": expected ")", was "@borderColor, 2...")
+2012-08-22 15:25:00 overwrite _css/responsive.css 
+2012-08-22 15:25:48     error _scss/bootstrap.scss (Line 202 of _scss/_mixins.scss: Invalid CSS after "... border-radius(": expected variable (e.g. $foo), was "@radius) {")
+2012-08-22 15:25:48 overwrite _css/bootstrap.css 
+2012-08-22 15:25:48     error _scss/responsive.scss (Line 202 of _scss/_mixins.scss: Invalid CSS after "... border-radius(": expected variable (e.g. $foo), was "@radius) {")
+2012-08-22 15:25:48 overwrite _css/responsive.css 
+2012-08-22 15:26:55     error _scss/bootstrap.scss (Line 232 of _scss/_mixins.scss: Invalid CSS after "...op-right-radius": expected "{", was "($radius);")
+2012-08-22 15:26:55 overwrite _css/bootstrap.css 
+2012-08-22 15:26:55     error _scss/responsive.scss (Line 232 of _scss/_mixins.scss: Invalid CSS after "...op-right-radius": expected "{", was "($radius);")
+2012-08-22 15:26:55 overwrite _css/responsive.css 
+2012-08-22 15:29:45     error _scss/bootstrap.scss (Line 249 of _scss/_mixins.scss: Invalid CSS after "@mixin box-shadow(": expected variable (e.g. $foo), was "@shadow) {")
+2012-08-22 15:29:45 overwrite _css/bootstrap.css 
+2012-08-22 15:29:45     error _scss/responsive.scss (Line 249 of _scss/_mixins.scss: Invalid CSS after "@mixin box-shadow(": expected variable (e.g. $foo), was "@shadow) {")
+2012-08-22 15:29:45 overwrite _css/responsive.css 
+2012-08-22 15:30:06     error _scss/bootstrap.scss (Line 400 of _scss/_mixins.scss: Invalid CSS after "...ent > .vertical": expected "{", was "($primaryColor,...")
+2012-08-22 15:30:06 overwrite _css/bootstrap.css 
+2012-08-22 15:30:07     error _scss/responsive.scss (Line 400 of _scss/_mixins.scss: Invalid CSS after "...ent > .vertical": expected "{", was "($primaryColor,...")
+2012-08-22 15:30:07 overwrite _css/responsive.css 
+2012-08-22 15:31:19     error _scss/bootstrap.scss (Line 397 of _scss/_mixins.scss: Undefined variable: "$primaryColor".)
+2012-08-22 15:31:19 overwrite _css/bootstrap.css 
+2012-08-22 15:31:19     error _scss/responsive.scss (Line 397 of _scss/_mixins.scss: Undefined variable: "$primaryColor".)
+2012-08-22 15:31:19 overwrite _css/responsive.css 
+2012-08-22 15:32:01     error _scss/bootstrap.scss (Line 11 of _scss/_scaffolding.scss: Invalid CSS after "  font-family: ": expected expression (e.g. 1px, bold), was "@baseFontFamily;")
+2012-08-22 15:32:01 overwrite _css/bootstrap.css 
+2012-08-22 15:32:01     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 15:32:01 overwrite _css/responsive.css 
+2012-08-22 15:33:21     error _scss/bootstrap.scss (Line 23 of _scss/_scaffolding.scss: Invalid CSS after "  color: ": expected expression (e.g. 1px, bold), was "@linkColor;")
+2012-08-22 15:33:21 overwrite _css/bootstrap.css 
+2012-08-22 15:33:21     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 15:33:21 identical _css/responsive.css 
+2012-08-22 15:33:50     error _scss/bootstrap.scss (Line 36 of _scss/_scaffolding.scss: Invalid CSS after "  .border-radius": expected "{", was "(6px);")
+2012-08-22 15:33:50 overwrite _css/bootstrap.css 
+2012-08-22 15:33:50     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 15:33:50 identical _css/responsive.css 
+2012-08-22 15:34:10     error _scss/bootstrap.scss (Line 7 of _scss/_grid.scss: Invalid CSS after "#grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 15:34:10 overwrite _css/bootstrap.css 
+2012-08-22 15:34:11     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 15:34:11 identical _css/responsive.css 
+2012-08-22 15:36:46     error _scss/bootstrap.scss (Line 7 of _scss/_grid.scss: Invalid CSS after "#grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 15:36:46 overwrite _css/bootstrap.css 
+2012-08-22 15:36:46     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 15:36:46 overwrite _css/responsive.css 
+2012-08-22 15:37:17     error _scss/bootstrap.scss (Line 14 of _scss/_grid.scss: Invalid CSS after "...*="span"].hide,": expected "{", was "@include row-fl...")
+2012-08-22 15:37:17 overwrite _css/bootstrap.css 
+2012-08-22 15:37:17     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 15:37:17 identical _css/responsive.css 
+2012-08-22 15:38:31     error _scss/bootstrap.scss (Line 609 of _scss/_mixins.scss: Undefined mixin 'row-fluid'.)
+2012-08-22 15:38:31 overwrite _css/bootstrap.css 
+2012-08-22 15:38:31     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 15:38:31 identical _css/responsive.css 
+2012-08-22 15:38:45     error _scss/bootstrap.scss (Line 8 of _scss/_layouts.scss: Invalid CSS after "  .container-fixed": expected "{", was "();")
+2012-08-22 15:38:45 overwrite _css/bootstrap.css 
+2012-08-22 15:38:45     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 15:38:45 overwrite _css/responsive.css 
+2012-08-22 15:38:58     error _scss/bootstrap.scss (Line 8 of _scss/_layouts.scss: Invalid CSS after "  .container-fixed": expected "{", was "();")
+2012-08-22 15:38:58 overwrite _css/bootstrap.css 
+2012-08-22 15:38:58     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 15:38:58 overwrite _css/responsive.css 
+2012-08-22 15:39:27     error _scss/bootstrap.scss (Line 13 of _scss/_layouts.scss: Invalid CSS after "  padding-right: ": expected expression (e.g. 1px, bold), was "@gridGutterWidth;")
+2012-08-22 15:39:27 overwrite _css/bootstrap.css 
+2012-08-22 15:39:27     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 15:39:27 identical _css/responsive.css 
+2012-08-22 15:39:38     error _scss/bootstrap.scss (Line 15 of _scss/_layouts.scss: Invalid CSS after "  .clearfix": expected "{", was "();")
+2012-08-22 15:39:38 overwrite _css/bootstrap.css 
+2012-08-22 15:39:39     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 15:39:39 identical _css/responsive.css 
+2012-08-22 15:39:47     error _scss/bootstrap.scss (Line 10 of _scss/_type.scss: Invalid CSS after "  margin: 0 0 ": expected ";", was "@baseLineHeight...")
+2012-08-22 15:39:47 overwrite _css/bootstrap.css 
+2012-08-22 15:39:47     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 15:39:47 identical _css/responsive.css 
+2012-08-22 15:41:03     error _scss/bootstrap.scss (Line 124 of _scss/_type.scss: Invalid CSS after "    .text-overflow": expected "{", was "();")
+2012-08-22 15:41:03 overwrite _css/bootstrap.css 
+2012-08-22 15:41:04     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 15:41:04 identical _css/responsive.css 
+2012-08-22 15:41:20     error _scss/bootstrap.scss (Line 159 of _scss/_type.scss: Invalid CSS after "...nt > .shorthand": expected "{", was "(16px,300,$base...")
+2012-08-22 15:41:20 overwrite _css/bootstrap.css 
+2012-08-22 15:41:20     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 15:41:20 identical _css/responsive.css 
+2012-08-22 15:43:14     error _scss/bootstrap.scss (Line 10 of _scss/_code.scss: Invalid CSS after "...ly > .monospace": expected "{", was ";")
+2012-08-22 15:43:14 overwrite _css/bootstrap.css 
+2012-08-22 15:43:14     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 15:43:14 identical _css/responsive.css 
+2012-08-22 15:44:03     error _scss/bootstrap.scss (Line 11 of _scss/_code.scss: Invalid CSS after "  font-size: ": expected expression (e.g. 1px, bold), was "@baseFontSize - 2;")
+2012-08-22 15:44:03 overwrite _css/bootstrap.css 
+2012-08-22 15:44:03     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 15:44:03 identical _css/responsive.css 
+2012-08-22 15:44:31     error _scss/bootstrap.scss (Line 10 of _scss/_code.scss: Invalid CSS after "  $include ": expected ":", was "font-family-mon...")
+2012-08-22 15:44:31 overwrite _css/bootstrap.css 
+2012-08-22 15:44:31     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 15:44:31 identical _css/responsive.css 
+2012-08-22 15:44:57     error _scss/bootstrap.scss (Line 10 of _scss/_code.scss: Invalid CSS after "  $include ": expected ":", was "font-family-mon...")
+2012-08-22 15:44:57 overwrite _css/bootstrap.css 
+2012-08-22 15:44:57     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 15:44:57 identical _css/responsive.css 
+2012-08-22 15:45:51     error _scss/bootstrap.scss (Line 10 of _scss/_code.scss: Invalid CSS after "  $include ": expected ":", was "font-family-mon...")
+2012-08-22 15:45:51 overwrite _css/bootstrap.css 
+2012-08-22 15:45:51     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 15:45:51 identical _css/responsive.css 
+2012-08-22 15:46:12     error _scss/bootstrap.scss (Line 13 of _scss/_code.scss: Invalid CSS after "  .border-radius": expected "{", was "(3px);")
+2012-08-22 15:46:12 overwrite _css/bootstrap.css 
+2012-08-22 15:46:12     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 15:46:12 identical _css/responsive.css 
+2012-08-22 15:46:26     error _scss/bootstrap.scss (Line 38 of _scss/_code.scss: Invalid CSS after "  .border-radius": expected "{", was "(4px);")
+2012-08-22 15:46:26 overwrite _css/bootstrap.css 
+2012-08-22 15:46:26     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 15:46:26 identical _css/responsive.css 
+2012-08-22 15:46:36     error _scss/bootstrap.scss (Line 11 of _scss/_forms.scss: Invalid CSS after "  margin: 0 0 ": expected ";", was "@baseLineHeight;")
+2012-08-22 15:46:36 overwrite _css/bootstrap.css 
+2012-08-22 15:46:36     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 15:46:36 identical _css/responsive.css 
+2012-08-22 15:47:33     error _scss/bootstrap.scss (Line 45 of _scss/_forms.scss: Invalid CSS after "...nt > .shorthand": expected "{", was "($baseFontSize,...")
+2012-08-22 15:47:33 overwrite _css/bootstrap.css 
+2012-08-22 15:47:33     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 15:47:33 identical _css/responsive.css 
+2012-08-22 15:47:54     error _scss/bootstrap.scss (Line 88 of _scss/_forms.scss: Invalid CSS after "  .border-radius": expected "{", was "($inputBorderRa...")
+2012-08-22 15:47:54 overwrite _css/bootstrap.css 
+2012-08-22 15:47:55     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 15:47:55 identical _css/responsive.css 
+2012-08-22 15:48:14     error _scss/bootstrap.scss (Line 120 of _scss/_forms.scss: Invalid CSS after "  .box-shadow": expected "{", was "(inset 0 1px 1p...")
+2012-08-22 15:48:14 overwrite _css/bootstrap.css 
+2012-08-22 15:48:14     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 15:48:14 identical _css/responsive.css 
+2012-08-22 15:48:28     error _scss/bootstrap.scss (Line 121 of _scss/_forms.scss: Invalid CSS after "...ude transition(": expected ")", was "~"border linear...")
+2012-08-22 15:48:28 overwrite _css/bootstrap.css 
+2012-08-22 15:48:28     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 15:48:28 identical _css/responsive.css 
+2012-08-22 15:48:36     error _scss/bootstrap.scss (Line 121 of _scss/_forms.scss: Invalid CSS after "...ude transition(": expected ")", was "~"border linear...")
+2012-08-22 15:48:36 overwrite _css/bootstrap.css 
+2012-08-22 15:48:36     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 15:48:36 identical _css/responsive.css 
+2012-08-22 15:49:46     error _scss/bootstrap.scss (Line 121 of _scss/_forms.scss: Invalid CSS after "...ude transition(": expected ")", was "#"border linear...")
+2012-08-22 15:49:46 overwrite _css/bootstrap.css 
+2012-08-22 15:49:46     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 15:49:46 identical _css/responsive.css 
+2012-08-22 15:50:14     error _scss/bootstrap.scss (Line 128 of _scss/_forms.scss: Invalid CSS after "...ude box-shadow(": expected ")", was "~"inset 0 1px 1...")
+2012-08-22 15:50:14 overwrite _css/bootstrap.css 
+2012-08-22 15:50:14     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 15:50:14 identical _css/responsive.css 
+2012-08-22 15:50:30     error _scss/bootstrap.scss (Line 179 of _scss/_forms.scss: Invalid CSS after "  .tab-focus": expected "{", was "();")
+2012-08-22 15:50:30 overwrite _css/bootstrap.css 
+2012-08-22 15:50:31     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 15:50:31 identical _css/responsive.css 
+2012-08-22 15:50:52     error _scss/bootstrap.scss (Line 215 of _scss/_forms.scss: Invalid CSS after "  .placeholder": expected "{", was "();")
+2012-08-22 15:50:52 overwrite _css/bootstrap.css 
+2012-08-22 15:50:52     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 15:50:52 identical _css/responsive.css 
+2012-08-22 15:51:02     error _scss/bootstrap.scss (Line 300 of _scss/_forms.scss: Invalid CSS after "#grid > .input": expected "{", was "($gridColumnWid...")
+2012-08-22 15:51:02 overwrite _css/bootstrap.css 
+2012-08-22 15:51:02     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 15:51:02 identical _css/responsive.css 
+2012-08-22 15:51:41     error _scss/bootstrap.scss (Line 304 of _scss/_forms.scss: Invalid CSS after "  .clearfix": expected "{", was "(); // Clear th...")
+2012-08-22 15:51:41 overwrite _css/bootstrap.css 
+2012-08-22 15:51:41     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 15:51:41 identical _css/responsive.css 
+2012-08-22 15:51:53     error _scss/bootstrap.scss (Line 342 of _scss/_forms.scss: Invalid CSS after "  .formFieldState": expected "{", was "($warningText, ...")
+2012-08-22 15:51:53 overwrite _css/bootstrap.css 
+2012-08-22 15:51:53     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 15:51:53 identical _css/responsive.css 
+2012-08-22 15:52:08     error _scss/bootstrap.scss (Line 362 of _scss/_forms.scss: Invalid CSS after "    .box-shadow": expected "{", was "(0 0 6px lighte...")
+2012-08-22 15:52:08 overwrite _css/bootstrap.css 
+2012-08-22 15:52:08     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 15:52:08 identical _css/responsive.css 
+2012-08-22 15:52:18     error _scss/bootstrap.scss (Line 377 of _scss/_forms.scss: Invalid CSS after "  .clearfix": expected "{", was "(); // Adding c...")
+2012-08-22 15:52:18 overwrite _css/bootstrap.css 
+2012-08-22 15:52:18     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 15:52:18 identical _css/responsive.css 
+2012-08-22 15:52:29     error _scss/bootstrap.scss (Line 397 of _scss/_forms.scss: Invalid CSS after "...e7-inline-block": expected "{", was "();")
+2012-08-22 15:52:29 overwrite _css/bootstrap.css 
+2012-08-22 15:52:29     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 15:52:29 identical _css/responsive.css 
+2012-08-22 15:52:36     error _scss/bootstrap.scss (Line 422 of _scss/_forms.scss: Invalid CSS after "    .border-radius": expected "{", was "(0 $inputBorder...")
+2012-08-22 15:52:36 overwrite _css/bootstrap.css 
+2012-08-22 15:52:36     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 15:52:36 identical _css/responsive.css 
+2012-08-22 15:52:54     error _scss/bootstrap.scss (Line 431 of _scss/_forms.scss: Invalid CSS after "    height: ": expected expression (e.g. 1px, bold), was "@baseLineHeight;")
+2012-08-22 15:52:54 overwrite _css/bootstrap.css 
+2012-08-22 15:52:54     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 15:52:54 identical _css/responsive.css 
+2012-08-22 15:53:48     error _scss/bootstrap.scss (Line 460 of _scss/_forms.scss: Invalid CSS after "    .border-radius": expected "{", was "($inputBorderRa...")
+2012-08-22 15:53:48 overwrite _css/bootstrap.css 
+2012-08-22 15:53:48     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 15:53:48 identical _css/responsive.css 
+2012-08-22 15:54:24     error _scss/bootstrap.scss (Line 504 of _scss/_forms.scss: Invalid CSS after "  .border-radius": expected "{", was "(15px);")
+2012-08-22 15:54:24 overwrite _css/bootstrap.css 
+2012-08-22 15:54:24     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 15:54:24 identical _css/responsive.css 
+2012-08-22 15:55:01     error _scss/bootstrap.scss (Line 545 of _scss/_forms.scss: Invalid CSS after "...e7-inline-block": expected "{", was "();")
+2012-08-22 15:55:01 overwrite _css/bootstrap.css 
+2012-08-22 15:55:01     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 15:55:01 identical _css/responsive.css 
+2012-08-22 15:55:12     error _scss/bootstrap.scss (Line 605 of _scss/_forms.scss: Invalid CSS after "    .clearfix": expected "{", was "();")
+2012-08-22 15:55:12 overwrite _css/bootstrap.css 
+2012-08-22 15:55:12     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 15:55:12 identical _css/responsive.css 
+2012-08-22 15:55:23     error _scss/bootstrap.scss (Line 11 of _scss/_tables.scss: Invalid CSS after "...kground-color: ": expected expression (e.g. 1px, bold), was "@tableBackground;")
+2012-08-22 15:55:23 overwrite _css/bootstrap.css 
+2012-08-22 15:55:23     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 15:55:23 identical _css/responsive.css 
+2012-08-22 15:56:52     error _scss/bootstrap.scss (Line 74 of _scss/_tables.scss: Invalid CSS after "  .border-radius": expected "{", was "(4px);")
+2012-08-22 15:56:52 overwrite _css/bootstrap.css 
+2012-08-22 15:56:52     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 15:56:52 identical _css/responsive.css 
+2012-08-22 15:57:06     error _scss/bootstrap.scss (Line 108 of _scss/_tables.scss: Invalid CSS after "    .border-radius": expected "{", was "(0 0 0 4px);")
+2012-08-22 15:57:06 overwrite _css/bootstrap.css 
+2012-08-22 15:57:06     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 15:57:06 identical _css/responsive.css 
+2012-08-22 15:57:15     error _scss/bootstrap.scss (Line 184 of _scss/_tables.scss: Invalid CSS after "...{ .tableColumns": expected "{", was "(1); }")
+2012-08-22 15:57:15 overwrite _css/bootstrap.css 
+2012-08-22 15:57:15     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 15:57:15 identical _css/responsive.css 
+2012-08-22 15:59:00     error _scss/bootstrap.scss (Line 33: File to import not found or unreadable: font-awesome.scss.
+Load paths:
+  /Users/joesnellpdx/Desktop/Sites/htdocs2/wp-content/themes/Boot_s/_scss
+  /Users/joesnellpdx/Downloads/compass_app/compass.app/Contents/Resources/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Users/joesnellpdx/Downloads/compass_app/compass.app/Contents/Resources/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Users/joesnellpdx/Downloads/compass_app/compass.app/Contents/Resources/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  /Users/joesnellpdx/Downloads/compass_app/compass.app/Contents/Resources/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  /Users/joesnellpdx/Downloads/compass_app/compass.app/Contents/Resources/ruby/compass_extensions/compass-h5bp/stylesheets
+  /Users/joesnellpdx/Downloads/compass_app/compass.app/Contents/Resources/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  /Users/joesnellpdx/Downloads/compass_app/compass.app/Contents/Resources/ruby/compass_extensions/susy-1.0/sass
+  /Users/joesnellpdx/Downloads/compass_app/compass.app/Contents/Resources/ruby/compass_common/sassy-math-1.2/stylesheets
+  /Users/joesnellpdx/Downloads/compass_app/compass.app/Contents/Resources/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  /Users/joesnellpdx/Downloads/compass_app/compass.app/Contents/Resources/ruby/compass_extensions/zurb-foundation-3.0.9/scss
+  Compass::SpriteImporter)
+2012-08-22 15:59:00 overwrite _css/bootstrap.css 
+2012-08-22 15:59:00     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 15:59:00 identical _css/responsive.css 
+2012-08-22 15:59:38     error _scss/bootstrap.scss (Line 22 of _scss/_sprites.scss: Invalid CSS after "...ight-whitespace": expected "{", was "();")
+2012-08-22 15:59:38 overwrite _css/bootstrap.css 
+2012-08-22 15:59:38     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 15:59:38 identical _css/responsive.css 
+2012-08-22 16:00:47     error _scss/bootstrap.scss (Line 27 of _scss/_dropdowns.scss: Invalid CSS after "...p:   4px solid ": expected ";", was "@black;")
+2012-08-22 16:00:47 overwrite _css/bootstrap.css 
+2012-08-22 16:00:48     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:00:48 identical _css/responsive.css 
+2012-08-22 16:01:45     error _scss/bootstrap.scss (Line 57 of _scss/_dropdowns.scss: Invalid CSS after "  .border-radius": expected "{", was "(6px);")
+2012-08-22 16:01:45 overwrite _css/bootstrap.css 
+2012-08-22 16:01:45     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:01:45 identical _css/responsive.css 
+2012-08-22 16:02:38     error _scss/bootstrap.scss (Line 57 of _scss/_dropdowns.scss: Invalid CSS after "  @import ": expected file to import (string or url()), was "border-radius(6...")
+2012-08-22 16:02:38 overwrite _css/bootstrap.css 
+2012-08-22 16:02:38     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:02:38 identical _css/responsive.css 
+2012-08-22 16:03:02     error _scss/bootstrap.scss (Line 71 of _scss/_dropdowns.scss: Invalid CSS after "    .nav-divider": expected "{", was "($dropdownDivid...")
+2012-08-22 16:03:02 overwrite _css/bootstrap.css 
+2012-08-22 16:03:02     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:03:02 identical _css/responsive.css 
+2012-08-22 16:03:30     error _scss/bootstrap.scss (Line 71 of _scss/_dropdowns.scss: Invalid CSS after "    @import ": expected file to import (string or url()), was "nav-divider($dr...")
+2012-08-22 16:03:30 overwrite _css/bootstrap.css 
+2012-08-22 16:03:30     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:03:30 identical _css/responsive.css 
+2012-08-22 16:03:47     error _scss/bootstrap.scss (Line 57 of _scss/_dropdowns.scss: Invalid CSS after "  @import ": expected file to import (string or url()), was "border-radius(6...")
+2012-08-22 16:03:47 overwrite _css/bootstrap.css 
+2012-08-22 16:03:47     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:03:47 identical _css/responsive.css 
+2012-08-22 16:04:43     error _scss/bootstrap.scss (Line 94 of _scss/_dropdowns.scss: Invalid CSS after "...ent > .vertical": expected "{", was "($dropdownLinkB...")
+2012-08-22 16:04:43 overwrite _css/bootstrap.css 
+2012-08-22 16:04:43     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:04:43 identical _css/responsive.css 
+2012-08-22 16:05:21     error _scss/bootstrap.scss (Line 105 of _scss/_dropdowns.scss: Invalid CSS after "...ent > .vertical": expected "{", was "($dropdownLinkB...")
+2012-08-22 16:05:21 overwrite _css/bootstrap.css 
+2012-08-22 16:05:21     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:05:21 identical _css/responsive.css 
+2012-08-22 16:05:38     error _scss/bootstrap.scss (Line 209 of _scss/_dropdowns.scss: Invalid CSS after "  @import ": expected file to import (string or url()), was "border-radius(4...")
+2012-08-22 16:05:38 overwrite _css/bootstrap.css 
+2012-08-22 16:05:38     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:05:38 identical _css/responsive.css 
+2012-08-22 16:05:51     error _scss/bootstrap.scss (Line 11 of _scss/_wells.scss: Invalid CSS after "...kground-color: ": expected expression (e.g. 1px, bold), was "@wellBackground;")
+2012-08-22 16:05:51 overwrite _css/bootstrap.css 
+2012-08-22 16:05:51     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:05:51 identical _css/responsive.css 
+2012-08-22 16:06:33     error _scss/bootstrap.scss (Line 13 of _scss/_wells.scss: Invalid CSS after "  .border-radius": expected "{", was "(4px);")
+2012-08-22 16:06:33 overwrite _css/bootstrap.css 
+2012-08-22 16:06:33     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:06:33 identical _css/responsive.css 
+2012-08-22 16:06:47     error _scss/bootstrap.scss (Line 8 of _scss/_component-animations.scss: Invalid CSS after "  .transition": expected "{", was "(opacity .15s l...")
+2012-08-22 16:06:47 overwrite _css/bootstrap.css 
+2012-08-22 16:06:47     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:06:47 identical _css/responsive.css 
+2012-08-22 16:07:22     error _scss/bootstrap.scss (Line 10 of _scss/_close.scss: Invalid CSS after "  line-height: ": expected expression (e.g. 1px, bold), was "@baseLineHeight;")
+2012-08-22 16:07:22 overwrite _css/bootstrap.css 
+2012-08-22 16:07:22     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:07:22 identical _css/responsive.css 
+2012-08-22 16:07:44     error _scss/bootstrap.scss (Line 13 of _scss/_close.scss: Invalid CSS after "  .opacity": expected "{", was "(20);")
+2012-08-22 16:07:44 overwrite _css/bootstrap.css 
+2012-08-22 16:07:44     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:07:44 identical _css/responsive.css 
+2012-08-22 16:07:54     error _scss/bootstrap.scss (Line 18 of _scss/_close.scss: Invalid CSS after "    .opacity": expected "{", was "(40);")
+2012-08-22 16:07:54 overwrite _css/bootstrap.css 
+2012-08-22 16:07:54     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:07:54 identical _css/responsive.css 
+2012-08-22 16:08:02     error _scss/bootstrap.scss (Line 12 of _scss/_buttons.scss: Invalid CSS after "...e7-inline-block": expected "{", was "();")
+2012-08-22 16:08:02 overwrite _css/bootstrap.css 
+2012-08-22 16:08:02     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:08:02 identical _css/responsive.css 
+2012-08-22 16:10:20     error _scss/bootstrap.scss (Line 26 of _scss/_buttons.scss: Invalid CSS after "...left-whitespace": expected "}", was "(); // Give IE7...")
+2012-08-22 16:10:20 overwrite _css/bootstrap.css 
+2012-08-22 16:10:20     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:10:20 identical _css/responsive.css 
+2012-08-22 16:10:29     error _scss/bootstrap.scss (Line 27 of _scss/_buttons.scss: Invalid CSS after "...ude box-shadow(": expected ")", was "~"inset 0 1px 0...")
+2012-08-22 16:10:29 overwrite _css/bootstrap.css 
+2012-08-22 16:10:29     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:10:29 identical _css/responsive.css 
+2012-08-22 16:10:45     error _scss/bootstrap.scss (Line 44 of _scss/_buttons.scss: Invalid CSS after "    .tab-focus": expected "{", was "();")
+2012-08-22 16:10:45 overwrite _css/bootstrap.css 
+2012-08-22 16:10:45     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:10:45 identical _css/responsive.css 
+2012-08-22 16:11:29     error _scss/bootstrap.scss (Line 54 of _scss/_buttons.scss: Invalid CSS after "...ude box-shadow(": expected ")", was "~"inset 0 2px 4...")
+2012-08-22 16:11:29 overwrite _css/bootstrap.css 
+2012-08-22 16:11:29     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:11:29 identical _css/responsive.css 
+2012-08-22 16:11:52     error _scss/bootstrap.scss (Line 108 of _scss/_buttons.scss: Invalid CSS after "  .box-sizing": expected "{", was "(border-box);")
+2012-08-22 16:11:52 overwrite _css/bootstrap.css 
+2012-08-22 16:11:52     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:11:52 identical _css/responsive.css 
+2012-08-22 16:12:18     error _scss/bootstrap.scss (Line 136 of _scss/_buttons.scss: Invalid CSS after "...uttonBackground": expected "{", was "($btnPrimaryBac...")
+2012-08-22 16:12:18 overwrite _css/bootstrap.css 
+2012-08-22 16:12:18     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:12:18 identical _css/responsive.css 
+2012-08-22 16:12:48     error _scss/bootstrap.scss (Line 21 of _scss/_buttons.scss: Mixin buttonBackground takes 2 arguments but 4 were passed.)
+2012-08-22 16:12:48 overwrite _css/bootstrap.css 
+2012-08-22 16:12:48     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:12:48 identical _css/responsive.css 
+2012-08-22 16:13:44     error _scss/bootstrap.scss (Line 108 of _scss/_buttons.scss: Invalid CSS after "  .box-sizing": expected "{", was "(border-box);")
+2012-08-22 16:13:44 overwrite _css/bootstrap.css 
+2012-08-22 16:13:44     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:13:44 identical _css/responsive.css 
+2012-08-22 16:14:11     error _scss/bootstrap.scss (Line 136 of _scss/_buttons.scss: Invalid CSS after "...uttonBackground": expected "{", was "($btnPrimaryBac...")
+2012-08-22 16:14:11 overwrite _css/bootstrap.css 
+2012-08-22 16:14:11     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:14:11 identical _css/responsive.css 
+2012-08-22 16:14:26     error _scss/bootstrap.scss (Line 140 of _scss/_buttons.scss: Invalid CSS after "...uttonBackground": expected "{", was "($btnWarningBac...")
+2012-08-22 16:14:26 overwrite _css/bootstrap.css 
+2012-08-22 16:14:26     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:14:26 identical _css/responsive.css 
+2012-08-22 16:14:50     error _scss/bootstrap.scss (Line 21 of _scss/_buttons.scss: Mixin buttonBackground takes 2 arguments but 4 were passed.)
+2012-08-22 16:14:50 overwrite _css/bootstrap.css 
+2012-08-22 16:14:50     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:14:50 identical _css/responsive.css 
+2012-08-22 16:18:12     error _scss/bootstrap.scss (Line 11 of _scss/_button-groups.scss: Invalid CSS after "...left-whitespace": expected "{", was "();")
+2012-08-22 16:18:12 overwrite _css/bootstrap.css 
+2012-08-22 16:18:12     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:18:12 identical _css/responsive.css 
+2012-08-22 16:18:34     error _scss/bootstrap.scss (Line 22 of _scss/_button-groups.scss: Invalid CSS after "  margin-top: ": expected expression (e.g. 1px, bold), was "@baseLineHeight...")
+2012-08-22 16:18:34 overwrite _css/bootstrap.css 
+2012-08-22 16:18:34     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:18:34 identical _css/responsive.css 
+2012-08-22 16:19:09     error _scss/bootstrap.scss (Line 26 of _scss/_button-groups.scss: Invalid CSS after "...e7-inline-block": expected "{", was "();")
+2012-08-22 16:19:09 overwrite _css/bootstrap.css 
+2012-08-22 16:19:10     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:19:10 identical _css/responsive.css 
+2012-08-22 16:19:20     error _scss/bootstrap.scss (Line 38 of _scss/_button-groups.scss: Invalid CSS after "  .border-radius": expected "{", was "(0);")
+2012-08-22 16:19:20 overwrite _css/bootstrap.css 
+2012-08-22 16:19:20     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:19:20 identical _css/responsive.css 
+2012-08-22 16:19:39     error _scss/bootstrap.scss (Line 38 of _scss/_button-groups.scss: Invalid CSS after "  $include ": expected ":", was "border-radius(0);")
+2012-08-22 16:19:39 overwrite _css/bootstrap.css 
+2012-08-22 16:19:39     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:19:39 identical _css/responsive.css 
+2012-08-22 16:21:23     error _scss/bootstrap.scss (Line 123 of _scss/_button-groups.scss: Invalid CSS after "  .box-shadow": expected "{", was "(~"inset 1px 0 ...")
+2012-08-22 16:21:23 overwrite _css/bootstrap.css 
+2012-08-22 16:21:23     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:21:23 identical _css/responsive.css 
+2012-08-22 16:21:57     error _scss/bootstrap.scss (Line 150 of _scss/_button-groups.scss: Invalid CSS after "...ude box-shadow(": expected ")", was "~"inset 0 2px 4...")
+2012-08-22 16:21:57 overwrite _css/bootstrap.css 
+2012-08-22 16:21:57     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:21:57 identical _css/responsive.css 
+2012-08-22 16:22:11     error _scss/bootstrap.scss (Line 222 of _scss/_button-groups.scss: Invalid CSS after "...e7-inline-block": expected "{", was "();")
+2012-08-22 16:22:11 overwrite _css/bootstrap.css 
+2012-08-22 16:22:11     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:22:11 identical _css/responsive.css 
+2012-08-22 16:22:55     error _scss/bootstrap.scss (Line 11 of _scss/_alerts.scss: Invalid CSS after "  margin-bottom: ": expected expression (e.g. 1px, bold), was "@baseLineHeight;")
+2012-08-22 16:22:55 overwrite _css/bootstrap.css 
+2012-08-22 16:22:55     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:22:55 identical _css/responsive.css 
+2012-08-22 16:23:18     error _scss/bootstrap.scss (Line 15 of _scss/_alerts.scss: Invalid CSS after "  .border-radius": expected "{", was "(4px);")
+2012-08-22 16:23:18 overwrite _css/bootstrap.css 
+2012-08-22 16:23:18     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:23:18 identical _css/responsive.css 
+2012-08-22 16:23:35     error _scss/bootstrap.scss (Line 11 of _scss/_navs.scss: Invalid CSS after "  margin-bottom: ": expected expression (e.g. 1px, bold), was "@baseLineHeight;")
+2012-08-22 16:23:35 overwrite _css/bootstrap.css 
+2012-08-22 16:23:35     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:23:35 identical _css/responsive.css 
+2012-08-22 16:23:53     error _scss/bootstrap.scss (Line 75 of _scss/_navs.scss: Invalid CSS after "  .nav-divider": expected "{", was "();")
+2012-08-22 16:23:53 overwrite _css/bootstrap.css 
+2012-08-22 16:23:53     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:23:53 identical _css/responsive.css 
+2012-08-22 16:24:09     error _scss/bootstrap.scss (Line 117 of _scss/_navs.scss: Invalid CSS after "  .border-radius": expected "{", was "(4px 4px 0 0);")
+2012-08-22 16:24:09 overwrite _css/bootstrap.css 
+2012-08-22 16:24:09     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:24:09 identical _css/responsive.css 
+2012-08-22 16:24:32     error _scss/bootstrap.scss (Line 174 of _scss/_navs.scss: Invalid CSS after "...rder-top-radius": expected "{", was "(4px);")
+2012-08-22 16:24:32 overwrite _css/bootstrap.css 
+2012-08-22 16:24:32     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:24:32 identical _css/responsive.css 
+2012-08-22 16:24:51     error _scss/bootstrap.scss (Line 252 of _scss/_navs.scss: Invalid CSS after "  .opacity": expected "{", was "(100);")
+2012-08-22 16:24:51 overwrite _css/bootstrap.css 
+2012-08-22 16:24:51     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:24:51 identical _css/responsive.css 
+2012-08-22 16:25:09     error _scss/bootstrap.scss (Line 12 of _scss/_navbar.scss: Invalid CSS after "  margin-bottom: ": expected expression (e.g. 1px, bold), was "@baseLineHeight;")
+2012-08-22 16:25:09 overwrite _css/bootstrap.css 
+2012-08-22 16:25:09     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:25:09 identical _css/responsive.css 
+2012-08-22 16:26:00     error _scss/bootstrap.scss (Line 26 of _scss/_navbar.scss: Invalid CSS after "...ent > .vertical": expected "{", was "($navbarBackgro...")
+2012-08-22 16:26:00 overwrite _css/bootstrap.css 
+2012-08-22 16:26:00     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:26:00 identical _css/responsive.css 
+2012-08-22 16:26:14     error _scss/bootstrap.scss (Line 90 of _scss/_navbar.scss: Invalid CSS after "...arVerticalAlign": expected "{", was "(28px); // Vert...")
+2012-08-22 16:26:14 overwrite _css/bootstrap.css 
+2012-08-22 16:26:15     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:26:15 identical _css/responsive.css 
+2012-08-22 16:26:44     error _scss/bootstrap.scss (Line 104 of _scss/_navbar.scss: Invalid CSS after "...arVerticalAlign": expected "{", was "(30px); // Vert...")
+2012-08-22 16:26:44 overwrite _css/bootstrap.css 
+2012-08-22 16:26:44     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:26:44 identical _css/responsive.css 
+2012-08-22 16:26:51     error _scss/bootstrap.scss (Line 131 of _scss/_navbar.scss: Invalid CSS after "...arVerticalAlign": expected "{", was "(30px); // Vert...")
+2012-08-22 16:26:51 overwrite _css/bootstrap.css 
+2012-08-22 16:26:51     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:26:51 identical _css/responsive.css 
+2012-08-22 16:27:03     error _scss/bootstrap.scss (Line 136 of _scss/_navbar.scss: Invalid CSS after "...t > .sans-serif": expected "{", was "(13px, normal, 1);")
+2012-08-22 16:27:03 overwrite _css/bootstrap.css 
+2012-08-22 16:27:03     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:27:03 identical _css/responsive.css 
+2012-08-22 16:27:17     error _scss/bootstrap.scss (Line 188 of _scss/_navbar.scss: Invalid CSS after "...> .core > .span": expected "{", was "($gridColumns);")
+2012-08-22 16:27:17 overwrite _css/bootstrap.css 
+2012-08-22 16:27:17     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:27:17 identical _css/responsive.css 
+2012-08-22 16:27:37     error _scss/bootstrap.scss (Line 198 of _scss/_navbar.scss: Invalid CSS after "...ude box-shadow(": expected ")", was "~"inset 0 -1px ...")
+2012-08-22 16:27:37 overwrite _css/bootstrap.css 
+2012-08-22 16:27:38     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:27:38 identical _css/responsive.css 
+2012-08-22 16:27:48     error _scss/bootstrap.scss (Line 206 of _scss/_navbar.scss: Invalid CSS after "...ude box-shadow(": expected ")", was "~"inset 0 1px 0...")
+2012-08-22 16:27:48 overwrite _css/bootstrap.css 
+2012-08-22 16:27:48     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:27:48 identical _css/responsive.css 
+2012-08-22 16:28:00     error _scss/bootstrap.scss (Line 270 of _scss/_navbar.scss: Invalid CSS after "...uttonBackground": expected "{", was "(darken($navbar...")
+2012-08-22 16:28:00 overwrite _css/bootstrap.css 
+2012-08-22 16:28:00     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:28:00 identical _css/responsive.css 
+2012-08-22 16:28:32     error _scss/bootstrap.scss (Line 271 of _scss/_navbar.scss: Invalid CSS after "...ude box-shadow(": expected ")", was "~"inset 0 1px 0...")
+2012-08-22 16:28:32 overwrite _css/bootstrap.css 
+2012-08-22 16:28:32     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:28:32 identical _css/responsive.css 
+2012-08-22 16:28:43     error _scss/bootstrap.scss (Line 379 of _scss/_navbar.scss: Invalid CSS after "...ent > .vertical": expected "{", was "($navbarInverse...")
+2012-08-22 16:28:43 overwrite _css/bootstrap.css 
+2012-08-22 16:28:44     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:28:44 identical _css/responsive.css 
+2012-08-22 16:29:00     error _scss/bootstrap.scss (Line 443 of _scss/_navbar.scss: Invalid CSS after "...ude box-shadow(": expected ")", was "~"inset 0 1px 2...")
+2012-08-22 16:29:00 overwrite _css/bootstrap.css 
+2012-08-22 16:29:00     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:29:00 identical _css/responsive.css 
+2012-08-22 16:29:13     error _scss/bootstrap.scss (Line 444 of _scss/_navbar.scss: Invalid CSS after "      .transition": expected "{", was "(none);")
+2012-08-22 16:29:13 overwrite _css/bootstrap.css 
+2012-08-22 16:29:13     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:29:13 identical _css/responsive.css 
+2012-08-22 16:29:26     error _scss/bootstrap.scss (Line 445 of _scss/_navbar.scss: Invalid CSS after "      .placeholder": expected "{", was "($navbarInverse...")
+2012-08-22 16:29:26 overwrite _css/bootstrap.css 
+2012-08-22 16:29:26     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:29:26 identical _css/responsive.css 
+2012-08-22 16:29:34     error _scss/bootstrap.scss (Line 188 of _scss/_navbar.scss: Undefined mixin 'grid-core-span'.)
+2012-08-22 16:29:34 overwrite _css/bootstrap.css 
+2012-08-22 16:29:34     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:29:34 identical _css/responsive.css 
+2012-08-22 16:32:13     error _scss/bootstrap.scss (Line 188 of _scss/_navbar.scss: Mixin core-span is missing argument $gridColumnWidth.)
+2012-08-22 16:32:13 overwrite _css/bootstrap.css 
+2012-08-22 16:32:13     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:32:13 identical _css/responsive.css 
+2012-08-22 16:36:39     error _scss/bootstrap.scss (Line 188 of _scss/_navbar.scss: Undefined mixin 'span'.)
+2012-08-22 16:36:39 overwrite _css/bootstrap.css 
+2012-08-22 16:36:39     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:36:39 identical _css/responsive.css 
+2012-08-22 16:37:31     error _scss/bootstrap.scss (Line 188 of _scss/_navbar.scss: Undefined mixin 'grid-core-span'.)
+2012-08-22 16:37:31 overwrite _css/bootstrap.css 
+2012-08-22 16:37:31     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:37:31 identical _css/responsive.css 
+2012-08-22 16:39:08     error _scss/bootstrap.scss (Line 188 of _scss/_navbar.scss: Mixin core-span is missing argument $gridColumnWidth.)
+2012-08-22 16:39:08 overwrite _css/bootstrap.css 
+2012-08-22 16:39:08     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:39:08 identical _css/responsive.css 
+2012-08-22 16:41:12     error _scss/bootstrap.scss (Line 188 of _scss/_navbar.scss: Undefined variable: "$Columns".)
+2012-08-22 16:41:12 overwrite _css/bootstrap.css 
+2012-08-22 16:41:12     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:41:12 identical _css/responsive.css 
+2012-08-22 16:41:22     error _scss/bootstrap.scss (Line 188 of _scss/_navbar.scss: Undefined variable: "$columns".)
+2012-08-22 16:41:22 overwrite _css/bootstrap.css 
+2012-08-22 16:41:22     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:41:22 identical _css/responsive.css 
+2012-08-22 16:42:28     error _scss/bootstrap.scss (Line 8 of _scss/_breadcrumbs.scss: Invalid CSS after "  margin: 0 0 ": expected ";", was "@baseLineHeight;")
+2012-08-22 16:42:28 overwrite _css/bootstrap.css 
+2012-08-22 16:42:28     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:42:28 identical _css/responsive.css 
+2012-08-22 16:42:51     error _scss/bootstrap.scss (Line 11 of _scss/_breadcrumbs.scss: Invalid CSS after "  .border-radius": expected "{", was "(4px);")
+2012-08-22 16:42:51 overwrite _css/bootstrap.css 
+2012-08-22 16:42:51     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:42:51 identical _css/responsive.css 
+2012-08-22 16:43:05     error _scss/bootstrap.scss (Line 7 of _scss/_pagination.scss: Invalid CSS after "  height: ": expected expression (e.g. 1px, bold), was "@baseLineHeight...")
+2012-08-22 16:43:05 overwrite _css/bootstrap.css 
+2012-08-22 16:43:05     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:43:05 identical _css/responsive.css 
+2012-08-22 16:44:26     error _scss/bootstrap.scss (Line 12 of _scss/_pagination.scss: Invalid CSS after "  @include ": expected identifier, was ".ie7-inline-blo...")
+2012-08-22 16:44:26 overwrite _css/bootstrap.css 
+2012-08-22 16:44:26     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:44:26 identical _css/responsive.css 
+2012-08-22 16:44:37     error _scss/bootstrap.scss (Line 7 of _scss/_pager.scss: Invalid CSS after "  margin: ": expected expression (e.g. 1px, bold), was "@baseLineHeight 0;")
+2012-08-22 16:44:37 overwrite _css/bootstrap.css 
+2012-08-22 16:44:37     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:44:37 identical _css/responsive.css 
+2012-08-22 16:45:39     error _scss/bootstrap.scss (Line 8 of _scss/_modals.scss: Invalid CSS after "...nu {  z-index: ": expected expression (e.g. 1px, bold), was "@zindexDropdown...")
+2012-08-22 16:45:39 overwrite _css/bootstrap.css 
+2012-08-22 16:45:39     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:45:39 identical _css/responsive.css 
+2012-08-22 16:46:07     error _scss/bootstrap.scss (Line 29 of _scss/_modals.scss: Invalid CSS after "  .opacity": expected "{", was "(80);")
+2012-08-22 16:46:07 overwrite _css/bootstrap.css 
+2012-08-22 16:46:07     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:46:07 identical _css/responsive.css 
+2012-08-22 16:46:19     error _scss/bootstrap.scss (Line 45 of _scss/_modals.scss: Invalid CSS after "  .border-radius": expected "{", was "(6px);")
+2012-08-22 16:46:19 overwrite _css/bootstrap.css 
+2012-08-22 16:46:20     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:46:20 identical _css/responsive.css 
+2012-08-22 16:46:56     error _scss/bootstrap.scss (Line 47 of _scss/_modals.scss: Invalid CSS after "  .background-clip": expected "{", was "(padding-box);")
+2012-08-22 16:46:56 overwrite _css/bootstrap.css 
+2012-08-22 16:46:56     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:46:56 identical _css/responsive.css 
+2012-08-22 16:47:13     error _scss/bootstrap.scss (Line 86 of _scss/_modals.scss: Invalid CSS after "  .clearfix": expected "{", was "(); // clear it...")
+2012-08-22 16:47:13 overwrite _css/bootstrap.css 
+2012-08-22 16:47:14     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:47:14 identical _css/responsive.css 
+2012-08-22 16:48:59     error _scss/bootstrap.scss (Line 9 of _scss/_tooltip.scss: Invalid CSS after "  z-index: ": expected expression (e.g. 1px, bold), was "@zindexTooltip;")
+2012-08-22 16:48:59 overwrite _css/bootstrap.css 
+2012-08-22 16:48:59     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:48:59 identical _css/responsive.css 
+2012-08-22 16:49:34     error _scss/bootstrap.scss (Line 14 of _scss/_tooltip.scss: Invalid CSS after "  .opacity": expected "{", was "(0);")
+2012-08-22 16:49:34 overwrite _css/bootstrap.css 
+2012-08-22 16:49:34     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:49:34 identical _css/responsive.css 
+2012-08-22 16:49:44     error _scss/bootstrap.scss (Line 15 of _scss/_tooltip.scss: Invalid CSS after "...     { .opacity": expected "{", was "(80); }")
+2012-08-22 16:49:44 overwrite _css/bootstrap.css 
+2012-08-22 16:49:44     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:49:44 identical _css/responsive.css 
+2012-08-22 16:50:26     error _scss/bootstrap.scss (Line 10 of _scss/_popovers.scss: Invalid CSS after "  z-index: ": expected expression (e.g. 1px, bold), was "@zindexPopover;")
+2012-08-22 16:50:26 overwrite _css/bootstrap.css 
+2012-08-22 16:50:26     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:50:26 identical _css/responsive.css 
+2012-08-22 16:51:15     error _scss/bootstrap.scss (Line 10 of _scss/_thumbnails.scss: Invalid CSS after "  margin-left: -": expected expression (e.g. 1px, bold), was "@gridGutterWidth;")
+2012-08-22 16:51:15 overwrite _css/bootstrap.css 
+2012-08-22 16:51:15     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:51:15 identical _css/responsive.css 
+2012-08-22 16:52:20     error _scss/bootstrap.scss (Line 9 of _scss/_labels-badges.scss: Invalid CSS after "  font-size: ": expected expression (e.g. 1px, bold), was "@baseFontSize *...")
+2012-08-22 16:52:20 overwrite _css/bootstrap.css 
+2012-08-22 16:52:20     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:52:20 identical _css/responsive.css 
+2012-08-22 16:52:56     error _scss/bootstrap.scss (Line 43 of _scss/_labels-badges.scss: Invalid CSS after "  &": expected "{", was "-important     ..."
+
+"-important" may only be used at the beginning of a selector.)
+2012-08-22 16:52:56 overwrite _css/bootstrap.css 
+2012-08-22 16:52:56     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:52:56 identical _css/responsive.css 
+2012-08-22 16:56:04     error _scss/bootstrap.scss (Line 47 of _scss/_progress-bars.scss: Invalid CSS after "  height: ": expected expression (e.g. 1px, bold), was "@baseLineHeight;")
+2012-08-22 16:56:04 overwrite _css/bootstrap.css 
+2012-08-22 16:56:04     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:56:04 identical _css/responsive.css 
+2012-08-22 16:57:00     error _scss/bootstrap.scss (Line 49 of _scss/_progress-bars.scss: Invalid CSS after "...ent > .vertical": expected "{", was "(#f5f5f5, #f9f9...")
+2012-08-22 16:57:00 overwrite _css/bootstrap.css 
+2012-08-22 16:57:00     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:57:00 identical _css/responsive.css 
+2012-08-22 16:57:45     error _scss/bootstrap.scss (Line 51 of _scss/_progress-bars.scss: Invalid CSS after "  @include border ": expected "}", was "radius(4px);")
+2012-08-22 16:57:45 overwrite _css/bootstrap.css 
+2012-08-22 16:57:45     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:57:45 identical _css/responsive.css 
+2012-08-22 16:57:53     error _scss/bootstrap.scss (Line 63 of _scss/_progress-bars.scss: Invalid CSS after "...ent > .vertical": expected "{", was "(#149bdf, #0480...")
+2012-08-22 16:57:53 overwrite _css/bootstrap.css 
+2012-08-22 16:57:53     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:57:53 identical _css/responsive.css 
+2012-08-22 16:58:28     error _scss/bootstrap.scss (Line 63 of _scss/_progress-bars.scss: Invalid CSS after "...ent > .vertical": expected "{", was "(#149bdf, #0480...")
+2012-08-22 16:58:28 overwrite _css/bootstrap.css 
+2012-08-22 16:58:28     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:58:28 identical _css/responsive.css 
+2012-08-22 16:58:40     error _scss/bootstrap.scss (Line 69 of _scss/_progress-bars.scss: Invalid CSS after "...ude box-shadow(": expected ")", was "~"inset 1px 0 0...")
+2012-08-22 16:58:40 overwrite _css/bootstrap.css 
+2012-08-22 16:58:40     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:58:40 identical _css/responsive.css 
+2012-08-22 16:58:53     error _scss/bootstrap.scss (Line 74 of _scss/_progress-bars.scss: Invalid CSS after "...ient > .striped": expected "{", was "(#149bdf);")
+2012-08-22 16:58:53 overwrite _css/bootstrap.css 
+2012-08-22 16:58:54     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:58:54 identical _css/responsive.css 
+2012-08-22 16:59:06     error _scss/bootstrap.scss (Line 75 of _scss/_progress-bars.scss: Invalid CSS after "  .background-size": expected "{", was "(40px 40px);")
+2012-08-22 16:59:06 overwrite _css/bootstrap.css 
+2012-08-22 16:59:06     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:59:06 identical _css/responsive.css 
+2012-08-22 16:59:13     error _scss/bootstrap.scss (Line 94 of _scss/_progress-bars.scss: Invalid CSS after "...ent > .vertical": expected "{", was "(#ee5f5b, #c43c...")
+2012-08-22 16:59:13 overwrite _css/bootstrap.css 
+2012-08-22 16:59:14     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 16:59:14 identical _css/responsive.css 
+2012-08-22 17:00:29     error _scss/bootstrap.scss (Line 8 of _scss/_accordion.scss: Invalid CSS after "  margin-bottom: ": expected expression (e.g. 1px, bold), was "@baseLineHeight;")
+2012-08-22 17:00:29 overwrite _css/bootstrap.css 
+2012-08-22 17:00:29     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 17:00:29 identical _css/responsive.css 
+2012-08-22 17:00:47     error _scss/bootstrap.scss (Line 15 of _scss/_accordion.scss: Invalid CSS after "  .border-radius": expected "{", was "(4px);")
+2012-08-22 17:00:47 overwrite _css/bootstrap.css 
+2012-08-22 17:00:47     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 17:00:47 identical _css/responsive.css 
+2012-08-22 17:01:00     error _scss/bootstrap.scss (Line 8 of _scss/_carousel.scss: Invalid CSS after "  margin-bottom: ": expected expression (e.g. 1px, bold), was "@baseLineHeight;")
+2012-08-22 17:01:00 overwrite _css/bootstrap.css 
+2012-08-22 17:01:00     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 17:01:00 identical _css/responsive.css 
+2012-08-22 17:01:20     error _scss/bootstrap.scss (Line 23 of _scss/_carousel.scss: Invalid CSS after "    .transition": expected "{", was "(.6s ease-in-ou...")
+2012-08-22 17:01:20 overwrite _css/bootstrap.css 
+2012-08-22 17:01:20     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 17:01:20 identical _css/responsive.css 
+2012-08-22 17:01:49     error _scss/bootstrap.scss (Line 9 of _scss/_hero-unit.scss: Invalid CSS after "...kground-color: ": expected expression (e.g. 1px, bold), was "@heroUnitBackgr...")
+2012-08-22 17:01:49 overwrite _css/bootstrap.css 
+2012-08-22 17:01:49     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 17:01:49 identical _css/responsive.css 
+2012-08-22 17:02:06     error _scss/bootstrap.scss (Line 10 of _scss/_hero-unit.scss: Invalid CSS after "  .border-radius": expected "{", was "(6px);")
+2012-08-22 17:02:06 overwrite _css/bootstrap.css 
+2012-08-22 17:02:07     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 17:02:07 identical _css/responsive.css 
+2012-08-22 17:02:12 identical _css/bootstrap.css 
+2012-08-22 17:02:12     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 17:02:12 identical _css/responsive.css 
+2012-08-22 17:02:16 identical _css/bootstrap.css 
+2012-08-22 17:02:16     error _scss/responsive.scss (Line 9 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 17:02:16 identical _css/responsive.css 
+2012-08-22 17:08:04     error _scss/responsive.scss (Line 12 of _scss/_responsive-1200px-min.scss: Invalid CSS after "  #grid > .fluid": expected "{", was "(@fluidGridColu...")
+2012-08-22 17:08:04 overwrite _css/responsive.css 
+2012-08-22 17:09:27     error _scss/responsive.scss (Line 9 of _scss/_responsive-768px-979px.scss: Invalid CSS after "  #grid > .core": expected "{", was "(@gridColumnWid...")
+2012-08-22 17:09:27 overwrite _css/responsive.css 
+2012-08-22 17:10:32     error _scss/responsive.scss (Line 69 of _scss/_responsive-767px-max.scss: Invalid CSS after "    .box-sizing": expected "{", was "(border-box);")
+2012-08-22 17:10:32 overwrite _css/responsive.css 
+2012-08-22 17:11:18     error _scss/responsive.scss (Line 69 of _scss/_responsive-767px-max.scss: Invalid CSS after "    .box-sizing": expected "{", was "(border-box);")
+2012-08-22 17:11:18 overwrite _css/responsive.css 
+2012-08-22 17:11:44     error _scss/responsive.scss (Line 82 of _scss/_responsive-767px-max.scss: Invalid CSS after "...put-block-level": expected "{", was "();")
+2012-08-22 17:11:44 overwrite _css/responsive.css 
+2012-08-22 17:12:01     error _scss/responsive.scss (Line 8 of _scss/_responsive-navbar.scss: Invalid CSS after "...ia (max-width: ": expected expression (e.g. 1px, bold), was "@navbarCollapse...")
+2012-08-22 17:12:01 overwrite _css/responsive.css 
+2012-08-22 17:12:39     error _scss/responsive.scss (Line 72 of _scss/_responsive-navbar.scss: Invalid CSS after "    .border-radius": expected "{", was "(3px);")
+2012-08-22 17:12:39 overwrite _css/responsive.css 
+2012-08-22 17:13:01     error _scss/responsive.scss (Line 109 of _scss/_responsive-navbar.scss: Invalid CSS after "    .box-shadow": expected "{", was "(none);")
+2012-08-22 17:13:01 overwrite _css/responsive.css 
+2012-08-22 17:13:34     error _scss/responsive.scss (Line 126 of _scss/_responsive-navbar.scss: Invalid CSS after "...ude box-shadow(": expected ")", was "~"inset 0 1px 0...")
+2012-08-22 17:13:34 overwrite _css/responsive.css 
