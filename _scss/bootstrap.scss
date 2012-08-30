@@ -21,13 +21,13 @@
 @import "layouts";
 
 // Base CSS
-@import "type";
+@import "type"; 
 @import "code";
 @import "forms";
 @import "tables";
 
 // Components: common
-@import "sprites";
+@import "font-awesome.scss";
 @import "dropdowns";
 @import "wells";
 @import "component-animations";
