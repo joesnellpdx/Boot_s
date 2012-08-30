@@ -221,8 +221,8 @@
 // Active dropdown links
 // -------------------------
 .nav .active .dropdown-toggle .caret {
-  border-top-color: #fff;
-  border-bottom-color: #fff;
+  border-top-color: $grayDark;
+  border-bottom-color: $grayDark;
 }
 .nav-tabs .active .dropdown-toggle .caret {
   border-top-color: $gray;
