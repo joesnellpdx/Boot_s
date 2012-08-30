@@ -37,24 +37,24 @@
         ?></title>
     <link rel="profile" href="http://gmpg.org/xfn/11" />
     <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>" />
+    
    	<!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
     <!--[if lt IE 9]>
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
+
+    <!-- Le fav and touch icons -->
+    <link rel="shortcut icon" href="assets/ico/favicon.ico">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="assets/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="assets/ico/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="assets/ico/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="assets/ico/apple-touch-icon-57-precomposed.png">
     
     <?php wp_head(); ?>
-    
-        <!-- Le fav and touch icons -->
-        
-    <link rel="shortcut icon" href="ico/favicon.ico">
-    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="ico/apple-touch-icon-144-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="ico/apple-touch-icon-114-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="ico/apple-touch-icon-72-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" href="ico/apple-touch-icon-57-precomposed.png">
 
 </head>
 
-<body <?php body_class(); ?>>
+<body data-spy="scroll" <?php body_class(); ?>>
 
 	<!-- Navbar
     ================================================== -->
@@ -66,7 +66,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="brand" href="./index.html"><?php bloginfo( 'name' ); ?></a>
+          <a class="brand" href="<?php echo home_url( '/' ); ?>"><?php bloginfo( 'name' ); ?></a>
           <div class="nav-collapse collapse">
             <?php wp_nav_menu( array( 'theme_location' => 'primary' ) ); ?>
           </div>
@@ -78,18 +78,26 @@
 <div id="page" class="hfeed site">
 	<?php do_action( 'before' ); ?>
 <header id="masthead" class="site-header" role="banner">
-		<hgroup>
+		<div class="container">
+        <hgroup>
+        	
+			<?php $header_image = get_header_image();
+			if ( ! empty( $header_image ) ) { ?>
+				<a href="<?php echo esc_url( home_url( '/' ) ); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" rel="home">
+					<img src="<?php header_image(); ?>" width="<?php echo get_custom_header()->width; ?>" height="<?php echo get_custom_header()->height; ?>" alt="" />
+		
+        		</a>
+			<?php } // if ( ! empty( $header_image ) ) ?>
 			<h1 class="site-title"><a href="<?php echo home_url( '/' ); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a></h1>
 			<h2 class="site-description"><?php bloginfo( 'description' ); ?></h2>
 		</hgroup>
+        </div>
 
 		<nav role="navigation" class="site-navigation main-navigation">
-			<h1 class="assistive-text"><?php _e( 'Menu', 'Boot_s' ); ?></h1>
-			<div class="assistive-text skip-link"><a href="#content" title="<?php esc_attr_e( 'Skip to content', 'Boot_s' ); ?>"><?php _e( 'Skip to content', 'Boot_s' ); ?></a></div>
 
 			<?php wp_nav_menu( array( 'theme_location' => 'primary' ) ); ?>
 		</nav><!-- .site-navigation .main-navigation -->
 	</header><!-- #masthead .site-header -->
 
-	<div id="main">
+	<div id="main" class="container">
    

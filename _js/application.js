@@ -7,7 +7,9 @@
 	
 
 
-	$('.menu').find('ul').addClass('nav');
+	
+	$(".nav-collapse").find("#menu-primary-navigation").addClass("nav");
+	$(".main-navigation").find("ul").addClass("masthead-links");
 
 
 

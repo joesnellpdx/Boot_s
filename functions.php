@@ -159,7 +159,7 @@ add_action( 'wp_enqueue_scripts', 'Boot_s_scripts' );
 /**
  * Implement the Custom Header feature
  */
-//require( get_template_directory() . '/inc/custom-header.php' );
+require( get_template_directory() . '/inc/custom-header.php' );
 
 /**
  * Implement additional Excerpt Functions

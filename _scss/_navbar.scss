@@ -53,8 +53,12 @@
   font-weight: 200;
   color: $navbarBrandColor;
   text-shadow: 0 1px 0 $navbarBackgroundHighlight;
-  &:hover {
-    text-decoration: none;
+	-webkit-transition: all .2s linear;
+	-moz-transition: all .2s linear;
+	transition: all .2s linear;
+	  &:hover {
+		text-decoration: none;
+	
   }
 }
 

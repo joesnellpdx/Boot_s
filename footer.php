@@ -11,12 +11,12 @@
 
 	</div><!-- #main -->
 
-	<footer id="colophon" class="site-footer" role="contentinfo">
-		<div class="site-info">
+	<footer id="colophon" class="site-footer footer" role="contentinfo" class="row">
+		<div class="site-info container span12">
 			<?php do_action( 'Boot_s_credits' ); ?>
-			<a href="http://wordpress.org/" title="<?php esc_attr_e( 'A Semantic Personal Publishing Platform', 'Boot_s' ); ?>" rel="generator"><?php printf( __( 'Proudly powered by %s', 'Boot_s' ), 'WordPress' ); ?></a>
+			<a href="https://github.com/joesnellpdx/Boot_s" title="<?php esc_attr_e( 'A Semantic Personal Publishing Platform', 'Boot_s' ); ?>" rel="generator"><?php printf( __( 'Boot_s' ), 'WordPress' ); ?></a>
 			<span class="sep"> | </span>
-			<?php printf( __( 'Theme: %1$s by %2$s.', 'Boot_s' ), 'Boot_s', '<a href="http://automattic.com/" rel="designer">Automattic</a>' ); ?>
+			<?php printf( __( 'Theme: %1$s by %2$s.', 'Boot_s' ), 'Boot_s', '<a href="http://www.joesnellpdx.com/" rel="designer">Joe Snell</a>' ); ?>
 		</div><!-- .site-info -->
 	</footer><!-- #colophon .site-footer -->
 </div><!-- #page .hfeed .site -->

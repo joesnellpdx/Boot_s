@@ -65,6 +65,13 @@ h2 small { font-size: 18px; }
 h3 small { font-size: 14px; }
 h4 small { font-size: 14px; }
 
+.masthead h1,
+.site-title {
+	font-size: 120px;
+	line-height: 1;
+	letter-spacing: -2px;
+}
+
 
 // Page header
 // -------------------------
@@ -128,8 +135,24 @@ dd {
   }
 }
 
+.masthead-links {
+	margin: 0;
+	list-style: none;
+}
+.masthead-links li {
+	display: inline;
+	padding: 0 10px;
+	color: rgba(255, 255, 255, .25);
+}
+
 // MISC
 // ----
+
+.masthead p {
+  font-size: 40px;
+  font-weight: 200;
+  line-height: 1.25;
+}
 
 // Horizontal rules
 hr {

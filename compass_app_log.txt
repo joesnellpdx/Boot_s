@@ -725,3 +725,34 @@ Load paths:
 2012-08-22 17:13:01 overwrite _css/responsive.css 
 2012-08-22 17:13:34     error _scss/responsive.scss (Line 126 of _scss/_responsive-navbar.scss: Invalid CSS after "...ude box-shadow(": expected ")", was "~"inset 0 1px 0...")
 2012-08-22 17:13:34 overwrite _css/responsive.css 
+2012-08-30 14:46:41 identical _css/bootstrap.css 
+2012-08-30 14:48:41 identical _css/bootstrap.css 
+2012-08-30 14:50:14 identical _css/bootstrap.css 
+2012-08-30 14:52:33 identical _css/bootstrap.css 
+2012-08-30 14:57:32     error _scss/bootstrap.scss (Line 67 of _scss/_navbar.scss: Invalid CSS after "  }": expected selector or at-rule, was "}")
+2012-08-30 14:57:32 overwrite _css/bootstrap.css 
+2012-08-30 14:58:01 identical _css/bootstrap.css 
+2012-08-30 14:58:47 identical _css/bootstrap.css 
+2012-08-30 15:00:36     error _scss/bootstrap.scss (Line 171 of _scss/_variables.scss: Invalid CSS after "...               ": expected expression (e.g. 1px, bold), was "$000 !default;")
+2012-08-30 15:00:36 overwrite _css/bootstrap.css 
+2012-08-30 15:00:36     error _scss/responsive.scss (Line 171 of _scss/_variables.scss: Invalid CSS after "...               ": expected expression (e.g. 1px, bold), was "$000 !default;")
+2012-08-30 15:00:36 overwrite _css/responsive.css 
+2012-08-30 15:00:57 identical _css/bootstrap.css 
+2012-08-30 15:02:25 identical _css/bootstrap.css 
+2012-08-30 15:03:14 identical _css/bootstrap.css 
+2012-08-30 15:53:53 identical _css/bootstrap.css 
+2012-08-30 15:54:37 overwrite _css/bootstrap.css 
+2012-08-30 15:55:26 identical _css/bootstrap.css 
+2012-08-30 15:59:28 identical _css/bootstrap.css 
+2012-08-30 15:59:55 identical _css/bootstrap.css 
+2012-08-30 16:05:40 identical _css/bootstrap.css 
+2012-08-30 16:10:32 identical _css/responsive.css 
+2012-08-30 16:13:32     error _scss/responsive.scss (Line 180 of _scss/_responsive-767px-max.scss: Invalid CSS after "}": expected "}", was "")
+2012-08-30 16:13:32 overwrite _css/responsive.css 
+2012-08-30 16:15:40 identical _css/responsive.css 
+2012-08-30 16:15:52 overwrite _css/responsive.css 
+2012-08-30 16:19:31 identical _css/responsive.css 
+2012-08-30 16:20:23     error _scss/responsive.scss (Line 187 of _scss/_responsive-767px-max.scss: Invalid CSS after "}": expected "}", was "")
+2012-08-30 16:20:23 overwrite _css/responsive.css 
+2012-08-30 16:20:51     error _scss/responsive.scss (Line 126 of _scss/_responsive-767px-max.scss: Invalid CSS after "  }": expected selector or at-rule, was "}")
+2012-08-30 16:20:51 overwrite _css/responsive.css 

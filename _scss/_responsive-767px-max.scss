@@ -23,6 +23,26 @@
 
   // TYPOGRAPHY
   // ----------
+  
+    #masthead h1 {
+    font-size: 60px;
+  }
+  #masthead p,
+  #masthead .btn {
+    font-size: 20px;
+  }
+  #masthead .btn {
+    display: block;
+  }
+      #masthead {
+	padding: 	40px 20px;
+    margin-top:   -20px; /* Offset bottom margin on .navbar */
+    margin-right: -20px;
+    margin-left:  -20px;
+	  
+  }
+  
+  
   // Reset horizontal dl
   .dl-horizontal {
     dt {
