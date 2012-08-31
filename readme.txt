@@ -1,6 +1,9 @@
-===== Boot_s =====
+Boot_s
+======
 
 Wordpress Theme. Fusion of Twitter Bootstrap and _s from Automattic using SASS(.scss).
+
+This theme began as a fusion of Twitter Bootstrap and _s Wordpress Theme by Automattic.
 
 The CSS is compiled using SASS (.scss).
 
@@ -22,5 +25,6 @@ The GPL license in license.txt. :) Use it to make something cool.
 I will using this theme as a foundation to fork individual projects. Stay tuned!
 
 Thank you for checking it out!
-JoeSnellPDX_Dot_Com
+Boot_s
+
 Wordpress Theme for personal site. Fusion of Twitter Bootstrap and _s from Automattic.
