@@ -4,7 +4,7 @@
 
 !function ($) {
 	
-	$(".nav-collapse").find("#menu-primary-navigation").addClass("nav");
+	$(".nav-collapse").find("ul").addClass("nav");
 	$(".main-navigation").find("ul").addClass("masthead-links");
 }
 (window.jQuery)
